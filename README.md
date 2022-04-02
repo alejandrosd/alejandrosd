@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 👋 Hi, I’m Alejandro Ocampo
 - 🎒 I am a systems engineering student at [Universidad Distrital](https://www.udistrital.edu.co/inicio)
 - 🔭 I’m currently working on Node.js and Vue

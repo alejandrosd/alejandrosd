@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/alejandrosd/alejandrosd/blob/main/banner.jpg)
+![Banner](https://github.com/alejandrosd/alejandrosd/blob/main/bannerr.jpg)
 
 ### Hi there 👋
 

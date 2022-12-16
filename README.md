@@ -5,8 +5,8 @@
 
 - 👋 Hi, I’m Alejandro Ocampo
 - 🎒 I am a systems engineering student at [Universidad Distrital](https://www.udistrital.edu.co/inicio)
-- 🔭 I’m currently working on Node.js and Vue
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on java 8
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: luisocampo.o.g@gmail.com
 
 
